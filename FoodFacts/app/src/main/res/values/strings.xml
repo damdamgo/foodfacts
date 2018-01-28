@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodFacts</string>
+    <string name="error_request">An error has occured, please check your internet connection and try later.</string>
+    <string name="error_barcode">No results found with this Barcode</string>
+    <string name="title_list_product">List of products :</string>
+    <string name="product_name">Product\'s name : </string>
+    <string name="product_ingredient">Product\'s ingredients :</string>
+    <string name="product_energy">Product\'s energy (kcal) :</string>
+    <string name="product_image">Product\'s image :</string>
+    <string name="product_add_title">Enter the barcode : </string>
+    <string name="cancel">cancel</string>
+    <string name="add">add</string>
+    <string name="load_more">Load more products</string>
+</resources>
